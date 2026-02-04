@@ -1,1 +1,5 @@
- # HELLO ! This is my first git repository 
+# \## Features
+
+* # Git version control
+* # GitHub integration
+* # CI with GitHub Actions 
